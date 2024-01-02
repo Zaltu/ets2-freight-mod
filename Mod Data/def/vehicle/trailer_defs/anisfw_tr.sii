@@ -1,0 +1,16 @@
+SiiNunit
+{
+trailer_def : trailer_def.anisfw_tr
+{
+	gross_trailer_weight_limit: 53000
+	chassis_mass: 1720
+	body_mass: 0
+	length: 22.7
+	axles: 4
+	volume: 1400
+	body_type: anisfw_tr
+	chain_type: single
+
+	mass_ratio[]: 1
+}
+}

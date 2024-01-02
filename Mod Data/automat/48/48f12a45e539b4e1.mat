@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/trailer/eu/qqklcbg46e80/dry_van_3axles_01/decals.tobj"
+	texture_name[0] : "texture_base"
+}

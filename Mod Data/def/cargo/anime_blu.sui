@@ -1,0 +1,13 @@
+cargo_data: cargo.anime_blu
+{
+	name: "Anime Blu-Rays"
+	fragility: 0.10
+	volume: 50.00
+	mass: 50.00
+	unit_reward_per_km: 150.000
+	unit_load_time: 5.00
+	adr_class: 0
+	valuable: true
+
+	body_types[]: anisfw_tr
+}

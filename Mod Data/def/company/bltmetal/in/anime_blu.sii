@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .anime_blu {
+  cargo: "cargo.anime_blu"
+}
+}

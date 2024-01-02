@@ -1,0 +1,38 @@
+trailer : trailer.anisfw_tr
+{
+	trailer_definition: trailer_def.anisfw_tr
+
+	accessories[]: .anisfw_tr.chassis
+	accessories[]: .anisfw_tr.rwheel
+	accessories[]: .anisfw_tr.rwheel2
+	accessories[]: .anisfw_tr.rwheel3
+	accessories[]: .anisfw_tr.paint_job
+}
+
+vehicle_accessory: .anisfw_tr.chassis
+{
+    	data_path: "/def/vehicle/trailer/anisfw_tr/chassis.sii"
+}
+
+vehicle_wheel_accessory: .anisfw_tr.rwheel
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/single_385_55_alu.sii"
+}
+
+vehicle_wheel_accessory: .anisfw_tr.rwheel2
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/single_385_55_alu.sii"
+}
+
+vehicle_wheel_accessory: .anisfw_tr.rwheel3
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/single_385_55_alu.sii"
+}
+
+vehicle_paint_job_accessory: .anisfw_tr.paint_job
+{
+	data_path: "/def/vehicle/trailer/anisfw_tr/company_paint_job/anisfw_tr.sii"
+}
