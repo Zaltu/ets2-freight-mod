@@ -14,7 +14,7 @@ This guide was written "functionally" in the sense that it works, but it's not a
 3. Unpack and merge generated files
 4. Add `trailer_def`
 5. Point cargo to `body_type`
-6. Point trailer to `trailder_def`
+6. Point trailer to `trailer_def`
 7. Repackage
 
 # Detailed Procedure
